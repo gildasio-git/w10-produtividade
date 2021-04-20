@@ -1,0 +1,115 @@
+1 - TRANSCRIÇÃO DE TEXTO FALADO:
+    Abra seu editor de texto "pressiona a tecla do WINDOWS+H"
+    a partir desse momento windows esta captando tudo que vocẽ esta falando
+    e esta transcrevendo para a tela  pra você. Não legal!?
+
+2 - CAPTURA DE TELA::
+    Pressione SHIFT+WINDOWS+S, ira abrir as opções para multicaptura com as 
+    opções de captura disponível, se for na barra de tarefas no ícone modifi-
+    cações, selecione sua imagem para fazer modificações.
+
+3 - CONTROLANDO O CELULAR:
+    Clica na tecla do windwos e procurar por "seu telefone" se não estiver 
+    configurado é so seguir o assistente, após conectado você pode controlar
+    seu ceular, inclusive acessar aplicativos usando o mouse, ou atender
+    chamadas, responder msgs, transferir fotos para seu computador.
+
+4 - ASSISTÊNCIA 
+    Clica na tecla do windwos e procura por "ASSISTÊNCIA RÁPIDA", uma janela
+    irá abrir perguntando se deseja "Obter assistência" ou "Dar assistência" 
+    se for o caso de vocẽ esta prestando assistẽncia a outra pessoa, clica no
+    botão  "AJUDAR OUTRA PESSOA" você vai receber um código de segurança, a 
+    partir dai  a pessoa que irá receber a assistễncia deverá ir  em 
+    assitência rápida, e digitar o código que vocẽ recebeu, após isso ela  
+    ira permitir compartilhar tela, e do seu lado vocẽ vai na opção ASSUMIR
+    CONTROLE TOTAL DO COMPUTADOR, a pessoa do outro lado irá permitir. e pronto
+    esta conectado remotamente a outro computador.
+
+5 - CAPTURA EM VÍDEO DA TELA:
+    WINDOWS+G vai abrir uma jenela de captura de tela, ai pode mandar gravar
+    ou usar a combinação de teclas WINDWOS+ALT+R, a partir dai estara gravando
+    todas as suas ações e uso do computador, ao terminar basta parar a gravação,
+    a gravação originada estará na sua pasta de Vídeos do seu perfil.
+    OBS: caso queira fazer configurações da captura de tela, basta ir na tecla      do windwos e em "CONFIGURAÇÕES DE CAPTURA" e pode escolher limite máximo 
+    qualidade do áudio e demais configurações.
+
+
+6 - REAPROVEITANDO CONTEÚDO DA ÁREA DE TRANSFERẼNCIA:
+    Para isso clique na tecla WINDWOS + V, toda o conteúdo que vocẽ copiou 
+    estará disponível para uso, todo histório.
+
+7 - VÁRIAS ÁREA DE TRABALHO NO WINDWOS?
+    Facilidade quando tem que trabalhar com vários conteúdos na tela.
+    para isso basta pressionar CTRL+WINDWOS+D vocẽ terá uma área de trabalho
+    nova, caso queira voltar ou navegar nas suas áreas de trabalhos abertas
+    basta pressionar CTRL+WINDWOS+"SETAS DE DIREÇÃO NO TECLADO" poderá nvegar
+    nas suas áreas de trabalho.
+
+8 - ANOTAÇÕES
+    Basta pressionar tecla do WINDOWS e procurar por "Notas Autoadesiva" ai
+    de dois cliques para escrever uma anotação, basta arrastar para sua área
+    de trabalho que a nota fica guardada.
+    pode usar recursos em conjunto como:
+    com a nota aberta e o cursor no modo edição da nota, pressionte WINDOWS+H 
+    e basta falar para realizar a transcrição do seu áudio para a nota.
+
+9 - EMOGIS
+    WINDOWS + . 
+
+10 - CONTROLANDO OS FORMATOS DA JENELA
+   Caso tenhas janelas sobrepostas umas as outras, basta com mouse selecionar 
+   na barra de título da janela e dar uma SACUDIDINHA nela as demais telas 
+   irão se esconder, para voltar basta sacudir novamente, para maximizar 
+   uma jenela basta arrastar ela para cima e pronto, ela ira maximizar.
+
+   MINIMIZAR puxe a janela para baixo.
+
+   COLOCAR JENELA LADO A LADO: Arraste para o lado e a jenela ira redimencionar
+   automaticamente, ai basta fazer o mesmo procedimento com a outra janela.
+
+   OCUPANDO 1/4 da tela, basta arrastar sua jenela para o canto inferior da sua
+   tela.
+
+   CUSTOMIZAR os posiconamentos da janela.
+   https://github.com/microsoft/PowerToys/releases
+   no link acima baixe o POWERTOYS, após baixar e instalar, va em FANCYZONES
+   e em EDITAR AS ZONAS e escolha como as suas jenelas serão configurados.
+   após isso para ajustar as jenals de acordo com a sua customização basta
+   pressionar a tecla SHIFT e arrastar a jenela para a posição desejada.
+
+   para visualizar os atalhos do windwos, basta pressionar e segurar a tecla
+   do WINDWOS.
+
+11 - Abrir programsa com teclas de atalho:
+   pressione a tecla WINDWOS + "numero do programa" obedecendo a ordem de cima
+   para baixo no menu. agora para abrir uma SEGUNDA INSTÂNCIA do programa ja 
+   aberto, para isso seleciona a tecla SHIFT e clicar sobre o programa que quer
+   uma sgunda instância.
+   JUNTANDO AS DUAS DICAS sem usar o mouse:
+   SHIFT+WINDWOS+"NUMERO DO PROGRAMA".
+
+12 - GRAVADOR DE PASSOS
+   Clica no botão iniciar do WINDWOS e procure por gravador de passos.
+   A partir do moment oque começar a gravar, todo a movimentação que vocẽ
+   fizer na maquina ele ira gravar, ao finalizar a gravação ele irá gerar 
+   um relatório contendo todos seus passos.
+
+13 - TRANSFERIR CONTEÚDO ENTRE DISPOSITIVOS QUE ESTEJAM COM BLUETOOH ligado
+   para isso abra o arquivo que deseja, e clique em compartilhar selecione o
+   dispositivo que deseja compartilhar e clica em compartilhar, no outro 
+   dispositivo irá aparecer o pedido para aceitar.
+   também em vez de abrir o arquivo basta clicar com o botão direito do seu 
+   arquivo e ir em compartilhar.
+   caso esse recurso não esteja disponível em seu computador, vocẽ pode 
+   habilitar indo em WINDOWS e localizando "COMPARTILHAR ENTRE DISPOSITIVOS"
+   e ativar.
+
+14 - AUMENTAR A TELA
+   tecla do WINDOWS + e com o seu mouse pode ir movimentando a janela.
+   
+
+
+
+ 
+ 
+
