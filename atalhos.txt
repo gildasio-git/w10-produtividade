@@ -42,7 +42,7 @@
     Facilidade quando tem que trabalhar com vários conteúdos na tela.
     para isso basta pressionar CTRL+WINDWOS+D vocẽ terá uma área de trabalho
     nova, caso queira voltar ou navegar nas suas áreas de trabalhos abertas
-    basta pressionar CTRL+WINDWOS+"SETAS DE DIREÇÃO NO TECLADO" poderá nvegar
+    basta pressionar CTRL+WINDOWS+"SETAS DE DIREÇÃO NO TECLADO" poderá nvegar
     nas suas áreas de trabalho.
 
 8 - ANOTAÇÕES
