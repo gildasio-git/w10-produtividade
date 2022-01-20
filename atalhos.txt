@@ -1,7 +1,7 @@
 1 - TRANSCRIÇÃO DE TEXTO FALADO:
     Abra seu editor de texto "pressiona a tecla do WINDOWS+H"
     a partir desse momento windows esta captando tudo que vocẽ esta falando
-    e esta transcrevendo para a tela  pra você. Não legal!?
+    e esta transcrevendo para a tela  pra você. Não  é legal!?
 
 2 - CAPTURA DE TELA::
     Pressione SHIFT+WINDOWS+S, ira abrir as opções para multicaptura com as 
@@ -27,7 +27,7 @@
 
 5 - CAPTURA EM VÍDEO DA TELA:
     WINDOWS+G vai abrir uma jenela de captura de tela, ai pode mandar gravar
-    ou usar a combinação de teclas WINDWOS+ALT+R, a partir dai estara gravando
+    ou usar a combinação de teclas WINDOWS+ALT+R, a partir dai estara gravando
     todas as suas ações e uso do computador, ao terminar basta parar a gravação,
     a gravação originada estará na sua pasta de Vídeos do seu perfil.
     OBS: caso queira fazer configurações da captura de tela, basta ir na tecla      do windwos e em "CONFIGURAÇÕES DE CAPTURA" e pode escolher limite máximo 
@@ -35,7 +35,7 @@
 
 
 6 - REAPROVEITANDO CONTEÚDO DA ÁREA DE TRANSFERẼNCIA:
-    Para isso clique na tecla WINDWOS + V, toda o conteúdo que vocẽ copiou 
+    Para isso clique na tecla WINDOWS + V, toda o conteúdo que vocẽ copiou 
     estará disponível para uso, todo histório.
 
 7 - VÁRIAS ÁREA DE TRABALHO NO WINDWOS?
