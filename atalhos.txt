@@ -9,7 +9,7 @@
     cações, selecione sua imagem para fazer modificações.
 
 3 - CONTROLANDO O CELULAR:
-    Clica na tecla do windwos e procurar por "seu telefone" se não estiver 
+    Clica na tecla do windows e procurar por "seu telefone" se não estiver 
     configurado é so seguir o assistente, após conectado você pode controlar
     seu ceular, inclusive acessar aplicativos usando o mouse, ou atender
     chamadas, responder msgs, transferir fotos para seu computador.
@@ -89,7 +89,7 @@
    SHIFT+WINDWOS+"NUMERO DO PROGRAMA".
 
 12 - GRAVADOR DE PASSOS
-   Clica no botão iniciar do WINDWOS e procure por gravador de passos.
+   Clica no botão iniciar do WINDOWS e procure por gravador de passos.
    A partir do moment oque começar a gravar, todo a movimentação que vocẽ
    fizer na maquina ele ira gravar, ao finalizar a gravação ele irá gerar 
    um relatório contendo todos seus passos.
